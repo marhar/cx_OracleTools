@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 Import data from an export file into tables in an Oracle database.
 """

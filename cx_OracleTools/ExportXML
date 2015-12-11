@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 Export data from a table in an Oracle database to an XML file.
 """
