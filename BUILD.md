@@ -17,4 +17,7 @@ c98bcad8ecf240768c0f83bedc363102 37260 Dec 10 15:15 cx_PyOracleLib-2.4.tar.gz
 
 3. Build cx_OracleTools
 
-- instructions coming
+- copy Options.py to site-packages
+- copy programs to bin
+
+wrapped up in junky install.sh script which you will need to modify.
